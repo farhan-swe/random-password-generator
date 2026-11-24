@@ -29,7 +29,7 @@ A simple and responsive web-based random password generator built using **HTML, 
 
 1. Clone the repo:
 ```
-git clone https://github.com/khdxsohee/random-password-generator.git
+git clone https://github.com/farhan-swe/random-password-generator.git
 ```
 
 2. Open `index.html` in any browser.
@@ -37,8 +37,8 @@ git clone https://github.com/khdxsohee/random-password-generator.git
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](https://github.com/khdxsohee/random-password-generator/blob/main/LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/farhan-swe/random-password-generator/blob/main/LICENSE).
 
 ## Author Information
 
-  * **Created by:** khdxsohee
+  * **Created by:** farhan-swe
